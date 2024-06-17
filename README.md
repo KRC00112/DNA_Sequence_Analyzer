@@ -1,3 +1,3 @@
-You can access the program here:
+# DNA Sequence Analyzer
 
-https://kaustavdnasequenceanalyzer.000webhostapp.com/DNA.php
+You can access the program here: https://kaustavdnasequenceanalyzer.000webhostapp.com/DNA.php
